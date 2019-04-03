@@ -1,7 +1,7 @@
 local.properties
 android/.idea
-ios/BiometricAuthentication.xcodeproj/project.xcworkspace/xcuserdata
-ios/BiometricAuthentication.xcodeproj/xcuserdata
+ios/biometricexample.xcodeproj/project.xcworkspace/xcuserdata
+ios/biometricexample.xcodeproj/xcuserdata
 node_modules
 android/build
 android/.gradle

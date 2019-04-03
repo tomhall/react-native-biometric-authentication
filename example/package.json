@@ -1,5 +1,5 @@
 {
-  "name": "example",
+  "name": "biometricauthexample",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -14,10 +14,10 @@
     "react-native-biometric-authentication": "file:../"
   },
   "devDependencies": {
-    "@babel/core": "^7.4.0",
-    "@babel/runtime": "^7.4.2",
-    "babel-jest": "^24.6.0",
-    "jest": "^24.6.0",
+    "@babel/core": "^7.4.3",
+    "@babel/runtime": "^7.4.3",
+    "babel-jest": "^24.7.0",
+    "jest": "^24.7.0",
     "metro-react-native-babel-preset": "^0.53.1",
     "react-test-renderer": "16.8.3"
   },

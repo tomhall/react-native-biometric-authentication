@@ -1,4 +1,4 @@
-package com.example;
+package com.biometricauthexample;
 
 import android.app.Application;
 
